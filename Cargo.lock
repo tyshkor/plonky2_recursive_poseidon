@@ -319,7 +319,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "plonky2-bench"
+name = "plonky2-recursive-poseidon"
 version = "0.1.0"
 dependencies = [
  "anyhow",
